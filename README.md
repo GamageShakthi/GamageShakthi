@@ -73,7 +73,8 @@
 
 ## 🐍 My Contributions Snake
 
-![Snake animation](https://raw.githubusercontent.com/shakthi-gamage/GamageShakthi/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/GamageShakthi/GamageShakthi/output/github-contribution-grid-snake.svg)
+
 
 ## ☕ Let's Connect
 
