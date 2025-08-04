@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/J6TrzG0.png" width="100%" alt="Shakthi Gamage - Electronics & AI Enthusiast Banner"/>
-</p>
 # 👋 Hello, I’m Shakthi Gamage!
 
 🎓 I'm an undergrad at the University of Moratuwa, studying **Electronic & Telecommunications Engineering**  
