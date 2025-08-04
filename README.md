@@ -63,9 +63,9 @@
 
 ## 📈 GitHub Stats
 
-![Shakthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakthi-gamage&show_icons=true&theme=tokyonight&count_private=true)
+![Shakthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GamageShakthi&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakthi-gamage&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GamageShakthi&layout=compact&theme=tokyonight)
 
 ---
 
@@ -73,11 +73,11 @@
 
 ## 🐍 My Contributions Snake
 
-![Snake animation](https://raw.githubusercontent.com/shakthi-gamage/shakthi-gamage/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/shakthi-gamage/GamageShakthi/output/github-contribution-grid-snake.svg)
 
 ## ☕ Let's Connect
 
-- 📬 Email: shakthigamage@email.com *(replace with your real one)*
+- 📬 Email: gamagesk.23@uom.lk
 - 🌐 Portfolio: [Coming soon...]
 - 💬 Feel free to reach out if you're into low-level systems, logic design, or just cool Python tricks.
 
