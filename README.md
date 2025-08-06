@@ -65,7 +65,7 @@
 
 ![Shakthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GamageShakthi&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GamageShakthi&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamageShakthi)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
